@@ -115,6 +115,7 @@ dummy_ssh = {'device_type': 'dummy_ssh',
                             'qemu.json',
                             'lamp.json',
                             'lemp.json',
+                            'perf.json',
                             #'network_tests_basic.json',
                             'sysbench.json'],}
 
