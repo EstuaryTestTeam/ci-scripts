@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/EstuaryTest/ci-test-cases.git",
-                    "testdef": "distro/samba/samba.yaml"
+                    "testdef": "samba/samba.yaml"
                 }
             ],
             "timeout": 7200
