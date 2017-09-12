@@ -21,8 +21,8 @@
             "parameters": {
             "testdef_repos": [
                 {
-                    "git-repo": "https://github.com/EstuaryTest/ci-test-cases.git",
-                    "testdef": "samba/samba.yaml"
+                    "git-repo": "https://github.com/EstuaryTestTeam/ci-test-cases.git",
+                    "testdef": "app/samba/samba.yaml"
                 }
             ],
             "timeout": 7200

@@ -21,8 +21,8 @@
             "parameters": {
             "testdef_repos": [
                 {
-                    "git-repo": "https://github.com/EstuaryTest/ci-test-cases.git",
-                    "testdef": "netperf/netperf.yaml"
+                    "git-repo": "https://github.com/EstuaryTestTeam/ci-test-cases.git",
+                    "testdef": "app/netperf/netperf.yaml"
                 }
             ],
             "timeout": 7200

@@ -21,8 +21,8 @@
             "parameters": {
             "testdef_repos": [
                 {
-                    "git-repo": "https://github.com/EstuaryTest/ci-test-cases.git",
-                    "testdef": "qperf/qperf.yaml"
+                    "git-repo": "https://github.com/EstuaryTestTeam/ci-test-cases.git",
+                    "testdef": "app/qperf/qperf.yaml"
                 }
             ],
             "timeout": 7200
