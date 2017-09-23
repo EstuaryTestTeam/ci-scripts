@@ -127,6 +127,8 @@ dummy_ssh = {'device_type': 'dummy_ssh',
                             'rcutorture.json',
                             'redis.json',
                             'rt-migrate-test.json',
+                            'dns.json',
+                            'nginx.json',
                             'samba.json'],}
 
 device_map = {'hip04-d01.dtb': [d01],
