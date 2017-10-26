@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/blogbench/blogbench.yaml"
+                    "testdef": "auto-test/blogbench/blogbench.yaml"
                 }
             ],
             "timeout": 7200

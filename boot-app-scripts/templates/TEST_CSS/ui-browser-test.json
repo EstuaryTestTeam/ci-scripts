@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/ui-browser-test/ui-browser-test.yaml"
+                    "testdef": "auto-test/ui-browser-test/ui-browser-test.yaml"
                 }
             ],
             "timeout": 7200

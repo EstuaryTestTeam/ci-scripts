@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/isolate-task/isolate-task.yaml"
+                    "testdef": "auto-test/isolate-task/isolate-task.yaml"
                 }
             ],
             "timeout": 7200

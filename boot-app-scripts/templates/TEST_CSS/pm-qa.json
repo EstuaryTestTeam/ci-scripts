@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/pm-qa/pm-qa.yaml"
+                    "testdef": "auto-test/pm-qa/pm-qa.yaml"
                 }
             ],
             "timeout": 7200

@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/openssl/openssl.yaml"
+                    "testdef": "auto-test/openssl/openssl.yaml"
                 }
             ],
             "timeout": 7200

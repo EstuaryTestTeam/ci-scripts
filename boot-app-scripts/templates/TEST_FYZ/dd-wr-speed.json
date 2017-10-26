@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/dd-wr-speed/dd-wr-speed.yaml"
+                    "testdef": "auto-test/dd-wr-speed/dd-wr-speed.yaml"
                 }
             ],
             "timeout": 7200

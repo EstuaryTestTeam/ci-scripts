@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/toolchain-smoke/toolchain-smoke.yaml"
+                    "testdef": "auto-test/toolchain-smoke/toolchain-smoke.yaml"
                 }
             ],
             "timeout": 7200

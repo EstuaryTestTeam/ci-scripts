@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/mmc/mmc.yaml"
+                    "testdef": "auto-test/mmc/mmc.yaml"
                 }
             ],
             "timeout": 7200

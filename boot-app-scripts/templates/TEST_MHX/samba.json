@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/samba/samba.yaml"
+                    "testdef": "auto-test/samba/samba.yaml"
                 }
             ],
             "timeout": 7200

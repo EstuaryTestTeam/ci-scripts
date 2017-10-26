@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/usb-smoke/usb-smoke.yaml"
+                    "testdef": "auto-test/usb-smoke/usb-smoke.yaml"
                 }
             ],
             "timeout": 7200

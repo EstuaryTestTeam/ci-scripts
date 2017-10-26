@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/lshw/lshw.yaml"
+                    "testdef": "auto-test/lshw/lshw.yaml"
                 }
             ],
             "timeout": 7200

@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/fio-test/fio-test.yaml"
+                    "testdef": "auto-test/fio-test/fio-test.yaml"
                 }
             ],
             "timeout": 7200

@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/rt-migrate-test/rt-migrate-test.yaml"
+                    "testdef": "auto-test/rt-migrate-test/rt-migrate-test.yaml"
                 }
             ],
             "timeout": 7200

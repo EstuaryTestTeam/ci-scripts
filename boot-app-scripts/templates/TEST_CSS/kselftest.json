@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/kselftest/kselftest.yaml"
+                    "testdef": "auto-test/kselftest/kselftest.yaml"
                 }
             ],
             "timeout": 7200

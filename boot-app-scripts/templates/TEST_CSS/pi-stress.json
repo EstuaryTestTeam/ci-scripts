@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/pi-stress/pi-stress.yaml"
+                    "testdef": "auto-test/pi-stress/pi-stress.yaml"
                 }
             ],
             "timeout": 7200

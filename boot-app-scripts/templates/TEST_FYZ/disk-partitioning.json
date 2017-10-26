@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/disk-partitioning/disk-partitioning.yaml"
+                    "testdef": "auto-test/disk-partitioning/disk-partitioning.yaml"
                 }
             ],
             "timeout": 7200

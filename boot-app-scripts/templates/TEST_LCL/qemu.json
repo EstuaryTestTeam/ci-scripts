@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/qemu/qemu.yaml"
+                    "testdef": "auto-test/qemu/qemu.yaml"
                 }
             ],
             "timeout": 7200

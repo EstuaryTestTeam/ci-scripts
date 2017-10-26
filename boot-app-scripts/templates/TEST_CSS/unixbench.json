@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/unixbench/unixbench.yaml"
+                    "testdef": "auto-test/unixbench/unixbench.yaml"
                 }
             ],
             "timeout": 7200

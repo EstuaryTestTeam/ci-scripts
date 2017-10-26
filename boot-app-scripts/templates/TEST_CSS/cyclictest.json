@@ -22,7 +22,7 @@
             "testdef_repos": [
                 {
                     "git-repo": "https://github.com/open-estuary/test-definitions.git",
-                    "testdef": "app/cyclictest/cyclictest.yaml"
+                    "testdef": "auto-test/cyclictest/cyclictest.yaml"
                 }
             ],
             "timeout": 7200
