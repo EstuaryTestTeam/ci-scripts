@@ -140,6 +140,10 @@ dummy_ssh = {'device_type': 'dummy_ssh',
                             'sysbench.json',
                             'ui-browser-test.json',
                             'unixbench.json',
+                           #add by liucaili 20171028
+                            'hhvm.json',
+                            'bazel.json',
+                            'etcd.json',
                            ],}
 
 device_map = {'hip04-d01.dtb': [d01],
