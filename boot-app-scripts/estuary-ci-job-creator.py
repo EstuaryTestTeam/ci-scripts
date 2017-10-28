@@ -145,6 +145,11 @@ dummy_ssh = {'device_type': 'dummy_ssh',
                             'bazel.json',
                             'etcd.json',
                             'cockroach.json',
+                            'yaml-cpp.json',
+                            'weighttp.json',
+                            'wrk.json',
+                            'ethernet.json',
+                            'mariadb.json',
                            ],}
 
 device_map = {'hip04-d01.dtb': [d01],
