@@ -150,6 +150,10 @@ dummy_ssh = {'device_type': 'dummy_ssh',
                             'wrk.json',
                             'ethernet.json',
                             'mariadb.json',
+                           #add by liucaili 20171106
+                            'golang.json',
+                            'go-bindata.json',
+                            'docker.json',
                            ],}
 
 device_map = {'hip04-d01.dtb': [d01],
